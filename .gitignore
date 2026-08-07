@@ -1,0 +1,10 @@
+*.o
+*.so
+*.a
+build/
+.env
+*.tmp
+__pycache__/
+*.pyc
+coverage/
+node_modules/
